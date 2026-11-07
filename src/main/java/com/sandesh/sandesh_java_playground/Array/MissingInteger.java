@@ -1,9 +1,8 @@
 
 package com.sandesh.sandesh_java_playground.array;
-
-import java.lang.reflect.Array;
 import java.util.Arrays;
 
+//Input is sorted array
 public class MissingInteger {
 
     public int solution(int[] A) {
