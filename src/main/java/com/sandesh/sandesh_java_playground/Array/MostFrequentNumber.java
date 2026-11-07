@@ -18,11 +18,11 @@ public class MostFrequentNumber {
         // mostFrequent(array5) should return -1.
         int[] array5 = {0, -1, 10, 10, -1, 10, -1, -1, -1, 1};
 
-        System.out.println("Input Array: " + Arrays.toString(array1) + ", Most Frequent Number: " +mostFrequent(array1)); //1
-        System.out.println("Input Array: " + Arrays.toString(array2) + ", Most Frequent Number: " +mostFrequent(array2)); // 3
-        System.out.println("Input Array: " + Arrays.toString(array3) + ", Most Frequent Number: " +mostFrequent(array3)); // null
-        System.out.println("Input Array: " + Arrays.toString(array4) + ", Most Frequent Number: " +mostFrequent(array4)); // 0
-        System.out.println("Input Array: " + Arrays.toString(array5) + ", Most Frequent Number: " +mostFrequent(array5)); // -1
+        System.out.println("Input Array: " + Arrays.toString(array1) + ", Most Frequent Number: " + mostFrequent(array1)); //1
+        System.out.println("Input Array: " + Arrays.toString(array2) + ", Most Frequent Number: " + mostFrequent(array2)); // 3
+        System.out.println("Input Array: " + Arrays.toString(array3) + ", Most Frequent Number: " + mostFrequent(array3)); // null
+        System.out.println("Input Array: " + Arrays.toString(array4) + ", Most Frequent Number: " + mostFrequent(array4)); // 0
+        System.out.println("Input Array: " + Arrays.toString(array5) + ", Most Frequent Number: " + mostFrequent(array5)); // -1
     }
 
     public static Integer mostFrequent(int[] givenArray) {
