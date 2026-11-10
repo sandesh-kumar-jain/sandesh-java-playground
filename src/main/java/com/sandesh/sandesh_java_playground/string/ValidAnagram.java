@@ -1,5 +1,6 @@
 package com.sandesh.sandesh_java_playground.string;
 //https://medium.com/@mehar.chand.cloud/validating-anagrams-in-java-4c0152b8634c
+//https://chatgpt.com/uc/6af34798-d208-83ea-aa78-c083d9eb12a3
 public class ValidAnagram {
     public boolean isAnagram(String s, String t) {
         if (s.length() != t.length()) {
