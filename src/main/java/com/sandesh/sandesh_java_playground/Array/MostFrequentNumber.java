@@ -1,4 +1,4 @@
-package com.sandesh.sandesh_java_playground.Array;
+package com.sandesh.sandesh_java_playground.array;
 
 import java.util.Arrays;
 import java.util.HashMap;
